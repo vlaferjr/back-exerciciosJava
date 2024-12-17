@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="54d372d3-d7f6-4c6c-bf5f-aff130e27529" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios-Alura.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Record/Pessoa/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Record/Pessoa/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Record/livro/Editora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Record/livro/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Record/livro/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/consumindoApi/ConsumirApiCotacaoCrypto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/consumindoApi/ConsumirApiGoogleBooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/consumindoApi/ConsumirApiReceita.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/divisivelZero/ExceptionDivisivelZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/gitHub/ErroConsultaGitHubException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/gitHub/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/senhainvalida/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/senhainvalida/SenhaInvalidaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio/amaral/ExercicioAmaral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaInicio/ConversaoTemperatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaInicio/DesafioContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaInicio/DesafioLoopingDecisao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaInicio/ExercicioAdivinharNumero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaInicio/ObjetoProduto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaInicio/ObjetosPessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaInicio/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaInicio/PrimeiraClasse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaInicio/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaInicio/desafioCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leitura_escrita_arquivo/LeitiuraArquivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leitura_escrita_arquivo/exercicio1/Exercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leitura_escrita_arquivo/exercicio2/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leitura_escrita_arquivo/exercicio2/Titulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leitura_escrita_arquivo/exercicio4/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leitura_escrita_arquivo/exercicio4/Veiculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/Getters_Setters/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/Getters_Setters/ContaBancariaExercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/Getters_Setters/IdadePessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/Getters_Setters/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/Getters_Setters/PrincipalGettersSetters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/Getters_Setters/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/arrayList/pessoas/Pessoas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/arrayList/pessoas/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/arrayList_forEach/exercicio1/Excercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/arrayList_forEach/exercicio2/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/arrayList_forEach/exercicio2/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/arrayList_forEach/exercicio2/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/arrayList_forEach/exercicio3/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/arrayList_forEach/exercicio3/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/arrayList_forEach/exercicio3/Gato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/arrayList_forEach/exercicio3/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/arrayList_forEach/exercicio4/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/arrayList_forEach/exercicio4/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/arrayList_forEach/exercicio5/Circulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/arrayList_forEach/exercicio5/Forma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/arrayList_forEach/exercicio5/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/arrayList_forEach/exercicio5/Quadrado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/arrayList_forEach/exercicio6/ContaBancaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/arrayList_forEach/exercicio6/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/classes/Execucao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/classes/OoAluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/classes/OoCalculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/classes/OoCarro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/classes/OoMusica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/classes/OoPessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/construtor/produto/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/construtor/produto/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/construtor/produto/ProdutoPerecivel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/exerciciothis/Lampada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/for_foreach/Nomes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/herança/animal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/herança/animal/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/herança/animal/Gato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/herança/carro/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/herança/carro/ModeloCarro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/herança/contabancaria/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/herança/contabancaria/ContaBancaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/herança/contabancaria/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/herança/contabancaria/ContaPoupanca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/herança/contabancaria/TesteContaBancaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/herança/numerosprimos/GeradorPrimo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/herança/numerosprimos/NumerosPrimos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/herança/numerosprimos/TesteNumerosPrimos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/herança/numerosprimos/VerificadorPrimo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/interfaces/calculoarea/CalculadoraSalaRetangular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/interfaces/calculoarea/CalculoGeometrico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/interfaces/calculoarea/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/interfaces/conversaomoeda/ConversaoFinanceira.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/interfaces/conversaomoeda/ConversorMoeda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/interfaces/conversaomoeda/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/interfaces/conversortemperatura/ConversorTemperatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/interfaces/conversortemperatura/ConversorTemperaturaPadrao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/interfaces/conversortemperatura/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/interfaces/precofinal/Calculavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/interfaces/precofinal/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/interfaces/precofinal/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/interfaces/precofinal/ProdutoFisico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/interfaces/produtoseservicos/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/interfaces/produtoseservicos/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/interfaces/produtoseservicos/Servico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/interfaces/produtoseservicos/Vendavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/interfaces/tabuada/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/interfaces/tabuada/Tabuada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/interfaces/tabuada/TabuadaMultiplicacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/interfaces/tributavel/CalcularImpostoTributavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/interfaces/tributavel/ProdutoTributavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/interfaces/tributavel/ServicoTributavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/interfaces/tributavel/Tributavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/lista_de_compras/desafio_lista_compras/Compras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/lista_de_compras/desafio_lista_compras/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/lista_de_compras/desafio_lista_compras_corrigido/CartaoCredito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/lista_de_compras/desafio_lista_compras_corrigido/Compra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/lista_de_compras/desafio_lista_compras_corrigido/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/lista_de_compras/lista_compras_sozinho/CartaoCredito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/lista_de_compras/lista_compras_sozinho/Compras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/lista_de_compras/lista_compras_sozinho/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/modificadorAcesso/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/modificadorAcesso/PrivateConta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/modificadorAcesso/PublicConta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/modificadorAcesso/defaultConta/conta/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/modificadorAcesso/defaultConta/teste/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/ordenacaoLista/NumerosInteiros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/ordenacaoLista/arrayList_linkedList/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/ordenacaoLista/titulo/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/ordenacaoLista/titulo/Titulo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Record" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2ds9Kb1d01mpMj8ZH0zADR79M8B" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Cachorro.executor": "Run",
+    "Application.ConsumirApiCotacaoCrypto.executor": "Run",
+    "Application.ConsumirApiGoogleBooks.executor": "Run",
+    "Application.ConsumirApiReceita.executor": "Run",
+    "Application.ContaCorrente.executor": "Run",
+    "Application.ConversaoTemperatura.executor": "Run",
+    "Application.DesafioContaCorrente.executor": "Run",
+    "Application.DesafioLoopingDecisao.executor": "Run",
+    "Application.ExceptionDivisivelZero.executor": "Run",
+    "Application.ExceptionSenhaInvalida.executor": "Debug",
+    "Application.Excercicio1.executor": "Run",
+    "Application.Execucao.executor": "Run",
+    "Application.ExecutarPessoa.executor": "Run",
+    "Application.ExemploHashMap.executor": "Run",
+    "Application.Exercicio1.executor": "Run",
+    "Application.Gato.executor": "Run",
+    "Application.ModeloCarro.executor": "Run",
+    "Application.Nomes.executor": "Run",
+    "Application.NumerosInteiros.executor": "Run",
+    "Application.ObjetoProduto.executor": "Run",
+    "Application.ObjetosPessoa.executor": "Run",
+    "Application.PrimeiraClasse.executor": "Run",
+    "Application.Principal.executor": "Run",
+    "Application.PrincipalGettersSetters.executor": "Run",
+    "Application.Record.Pessoa.Principal.executor": "Run",
+    "Application.TesteContaBancaria.executor": "Run",
+    "Application.TesteNumerosPrimos.executor": "Run",
+    "Application.desafioCasting.executor": "Run",
+    "Application.exceptions.gitHub.Principal.executor": "Run",
+    "Application.exceptions.senhainvalida.Principal.executor": "Debug",
+    "Application.leitura_escrita_arquivo.exercicio2.Principal.executor": "Run",
+    "Application.orientacaoAObjeto.Execucao.executor": "Run",
+    "Application.orientacaoAObjeto.Getters_Setters.Principal.executor": "Run",
+    "Application.orientacaoAObjeto.arrayList_forEach.exercicio3.Principal.executor": "Run",
+    "Application.orientacaoAObjeto.arrayList_forEach.exercicio4.Principal.executor": "Run",
+    "Application.orientacaoAObjeto.arrayList_forEach.exercicio6.Principal.executor": "Run",
+    "Application.orientacaoAObjeto.construtor.produto.Principal.executor": "Run",
+    "Application.orientacaoAObjeto.interfaces.calculoarea.Principal.executor": "Run",
+    "Application.orientacaoAObjeto.interfaces.conversortemperatura.Principal.executor": "Run",
+    "Application.orientacaoAObjeto.interfaces.precofinal.Principal.executor": "Run",
+    "Application.orientacaoAObjeto.interfaces.produtoseservicos.Principal.executor": "Run",
+    "Application.orientacaoAObjeto.interfaces.tabuada.Principal.executor": "Run",
+    "Application.orientacaoAObjeto.lista_de_compras.lista_compras_sozinho.Principal.executor": "Run",
+    "Application.orientacaoAObjeto.ordenacaoLista.arrayList_linkedList.Principal.executor": "Run",
+    "Application.orientacaoAObjeto.ordenacaoLista.titulo.Principal.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Vlad/Downloads/gson-2.10.1.jar",
+    "onboarding.tips.debug.path": "C:/Users/Vlad/Documents/Alura/Aprenda a programar em Java com Orientação a Objetos/exercicios-Alura/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="orientacaoAObjeto.desafio_lista_compras_corrigido" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vlad\Documents\Alura\Aprenda a programar em Java com Orientação a Objetos\exercicios-Alura\src\leitura_escrita_arquivo\exercicio1" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="exercicio.amaral" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Principal">
+    <configuration name="Exercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leitura_escrita_arquivo.exercicio1.Exercicio1" />
+      <module name="exercicios-Alura" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leitura_escrita_arquivo.exercicio1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leitura_escrita_arquivo.exercicio4.Principal" />
+      <module name="exercicios-Alura" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leitura_escrita_arquivo.exercicio4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exceptions.gitHub.Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exceptions.gitHub.Principal" />
+      <module name="exercicios-Alura" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exceptions.gitHub.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exceptions.senhainvalida.Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exceptions.senhainvalida.Principal" />
+      <module name="exercicios-Alura" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exceptions.senhainvalida.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="leitura_escrita_arquivo.exercicio2.Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leitura_escrita_arquivo.exercicio2.Principal" />
+      <module name="exercicios-Alura" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leitura_escrita_arquivo.exercicio2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Principal" />
+        <item itemvalue="Application.leitura_escrita_arquivo.exercicio2.Principal" />
+        <item itemvalue="Application.Exercicio1" />
+        <item itemvalue="Application.exceptions.gitHub.Principal" />
+        <item itemvalue="Application.exceptions.senhainvalida.Principal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54d372d3-d7f6-4c6c-bf5f-aff130e27529" name="Changes" comment="" />
+      <created>1710785858645</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710785858645</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/orientacaoAObjeto/classes/OoCarro.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/orientacaoAObjeto/classes/OoCarro.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/orientacaoAObjeto/classes/OoCarro.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/orientacaoAObjeto/classes/OoCarro.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/orientacaoAObjeto/herança/numerosprimos/TesteNumerosPrimos.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/orientacaoAObjeto/herança/numerosprimos/NumerosPrimos.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/orientacaoAObjeto/herança/numerosprimos/NumerosPrimos.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/orientacaoAObjeto/herança/numerosprimos/NumerosPrimos.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/orientacaoAObjeto/herança/numerosprimos/TesteNumerosPrimos.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/orientacaoAObjeto/herança/numerosprimos/TesteNumerosPrimos.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/orientacaoAObjeto/herança/numerosprimos/GeradorPrimo.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/orientacaoAObjeto/herança/numerosprimos/GeradorPrimo.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/orientacaoAObjeto/herança/numerosprimos/GeradorPrimo.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/orientacaoAObjeto/lista_de_compras/lista_compras_sozinho/Principal.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/orientacaoAObjeto/lista_de_compras/lista_compras_sozinho/CartaoCredito.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/orientacaoAObjeto/lista_de_compras/lista_compras_sozinho/CartaoCredito.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/orientacaoAObjeto/lista_de_compras/lista_compras_sozinho/CartaoCredito.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/orientacaoAObjeto/lista_de_compras/lista_compras_sozinho/Principal.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/orientacaoAObjeto/lista_de_compras/lista_compras_sozinho/Principal.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/orientacaoAObjeto/lista_de_compras/lista_compras_sozinho/Principal.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/orientacaoAObjeto/lista_de_compras/lista_compras_sozinho/Principal.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/orientacaoAObjeto/lista_de_compras/lista_compras_sozinho/Principal.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/orientacaoAObjeto/lista_de_compras/lista_compras_sozinho/Compras.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/orientacaoAObjeto/lista_de_compras/lista_compras_sozinho/Principal.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/orientacaoAObjeto/lista_de_compras/lista_compras_sozinho/Compras.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/orientacaoAObjeto/lista_de_compras/lista_compras_sozinho/Compras.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/orientacaoAObjeto/lista_de_compras/lista_compras_sozinho/Principal.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/orientacaoAObjeto/lista_de_compras/lista_compras_sozinho/Principal.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exceptions/senhainvalida/Principal.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exceptions/senhainvalida/Principal.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exceptions/senhainvalida/Principal.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exceptions/gitHub/Principal.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exceptions/gitHub/Principal.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exceptions/gitHub/Principal.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leitura_escrita_arquivo/exercicio2/Titulo.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

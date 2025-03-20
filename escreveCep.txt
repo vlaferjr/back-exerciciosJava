@@ -1,0 +1,1 @@
+"{\n  \"cep\": \"07122-200\",\n  \"logradouro\": \"Praça Professor Joaquim Garcia Salvador\",\n  \"complemento\": \"\",\n  \"bairro\": \"Jardim Bom Clima\",\n  \"localidade\": \"Guarulhos\",\n  \"uf\": \"SP\",\n  \"estado\": \"São Paulo\",\n  \"regiao\": \"Sudeste\"\n}"

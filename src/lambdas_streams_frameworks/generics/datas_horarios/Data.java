@@ -1,13 +1,12 @@
-package lambdas_streams_frameworks.generics.datas;
+package lambdas_streams_frameworks.generics.datas_horarios;
 
 import java.text.SimpleDateFormat;
 import java.time.LocalDate;
 import java.time.Month;
 import java.time.Period;
 import java.util.Date;
-import java.util.Locale;
 
-public class Datas {
+public class Data {
     public static void main(String[] args) {
         //DiaSemana, dia mês ano Hora:minuto:segundo Brasil
         String pattern = "E, dd MM yyyy HH:mm:ss z";
@@ -34,7 +33,6 @@ public class Datas {
         //descobrir o período (dias e meses)
         Period periodo = Period.between(hoje, dataNascimento);
         System.out.println("minha idade com meses e dias é: " + periodo );
-
 
     }
 }

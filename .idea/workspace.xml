@@ -4,54 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54d372d3-d7f6-4c6c-bf5f-aff130e27529" name="Changes" comment="Orientação a Objeto">
-      <change afterPath="$PROJECT_DIR$/escreveCep.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OrientacaoObjeto2/projeto_busca_cep/AcessaApiCep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OrientacaoObjeto2/projeto_busca_cep/CriaJson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OrientacaoObjeto2/projeto_busca_cep/Endereco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OrientacaoObjeto2/projeto_busca_cep/EscreveJson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OrientacaoObjeto2/projeto_busca_cep/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas_streams_frameworks/generics/caixa/Caixa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas_streams_frameworks/generics/caixa/TestaCaixa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas_streams_frameworks/generics/construtores/carro/Aplicacao_Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas_streams_frameworks/generics/construtores/carro/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas_streams_frameworks/generics/datas/Datas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas_streams_frameworks/generics/exercicios_lambda/ExerciciosLambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas_streams_frameworks/generics/exercicios_lambda/OperacaoExerciciosLambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas_streams_frameworks/generics/imutabilidade/ExemploImutablidade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas_streams_frameworks/generics/lambda/interface_funcional/Operacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas_streams_frameworks/generics/lambda/interface_funcional/TesteOperacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/revisao_2025/desafioBuscadorCeps/Endereco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/revisao_2025/desafioBuscadorCeps/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/revisao_2025/desafioCompras/CartaoCredito.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/revisao_2025/desafioCompras/Compras.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/revisao_2025/desafioCompras/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/revisao_2025/desafioContaCorrente/ContaCorrente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/revisao_2025/desafioMusicas/modelos/Audio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/revisao_2025/desafioMusicas/modelos/Musica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/revisao_2025/desafioMusicas/modelos/PodCast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/revisao_2025/desafioMusicas/modelos/Preferidas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/revisao_2025/desafioMusicas/principal/Principal.java" afterDir="false" />
+    <list default="true" id="54d372d3-d7f6-4c6c-bf5f-aff130e27529" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lambdas_streams_frameworks/generics/datas_horarios/DataHora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas_streams_frameworks/generics/datas_horarios/Formatacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas_streams_frameworks/generics/datas_horarios/Horarios.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Record/Pessoa/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacaoObjeto2/Record/Pessoa/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Record/Pessoa/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacaoObjeto2/Record/Pessoa/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Record/livro/Editora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacaoObjeto2/Record/livro/Editora.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Record/livro/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacaoObjeto2/Record/livro/Livro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Record/livro/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacaoObjeto2/Record/livro/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/consumindoApi/ConsumirApiCotacaoCrypto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacaoObjeto2/consumindoApi/ConsumirApiCotacaoCrypto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/consumindoApi/ConsumirApiGoogleBooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacaoObjeto2/consumindoApi/ConsumirApiGoogleBooks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/consumindoApi/ConsumirApiReceita.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacaoObjeto2/consumindoApi/ConsumirApiReceita.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exceptions/divisivelZero/ExceptionDivisivelZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacaoObjeto2/exceptions/divisivelZero/ExceptionDivisivelZero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exceptions/gitHub/ErroConsultaGitHubException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacaoObjeto2/exceptions/gitHub/ErroConsultaGitHubException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exceptions/gitHub/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacaoObjeto2/exceptions/gitHub/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exceptions/senhainvalida/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacaoObjeto2/exceptions/senhainvalida/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exceptions/senhainvalida/SenhaInvalidaException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacaoObjeto2/exceptions/senhainvalida/SenhaInvalidaException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leitura_escrita_arquivo/LeitiuraArquivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/leitura_escrita_arquivo/LeitiuraArquivo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leitura_escrita_arquivo/exercicio1/Exercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/leitura_escrita_arquivo/exercicio1/Exercicio1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leitura_escrita_arquivo/exercicio2/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/leitura_escrita_arquivo/exercicio2/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leitura_escrita_arquivo/exercicio2/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/leitura_escrita_arquivo/exercicio2/Titulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leitura_escrita_arquivo/exercicio4/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/leitura_escrita_arquivo/exercicio4/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leitura_escrita_arquivo/exercicio4/Veiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/orientacaoAObjeto/leitura_escrita_arquivo/exercicio4/Veiculo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdas_streams_frameworks/generics/datas/Datas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdas_streams_frameworks/generics/datas_horarios/Data.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,6 +50,7 @@
     "Application.ConsumirApiReceita.executor": "Run",
     "Application.ContaCorrente.executor": "Run",
     "Application.ConversaoTemperatura.executor": "Run",
+    "Application.DataHora.executor": "Run",
     "Application.Datas.executor": "Run",
     "Application.DesafioContaCorrente.executor": "Run",
     "Application.DesafioLoopingDecisao.executor": "Run",
@@ -104,7 +63,9 @@
     "Application.ExemploImutablidade.executor": "Run",
     "Application.Exercicio1.executor": "Run",
     "Application.ExerciciosLambda.executor": "Run",
+    "Application.Formatacao.executor": "Run",
     "Application.Gato.executor": "Run",
+    "Application.Horarios.executor": "Run",
     "Application.ModeloCarro.executor": "Run",
     "Application.Nomes.executor": "Run",
     "Application.NumerosInteiros.executor": "Run",
@@ -165,13 +126,26 @@
       <recent name="exercicio.amaral" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Datas">
-    <configuration name="Datas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdas_streams_frameworks.generics.datas.Datas" />
+  <component name="RunManager" selected="Application.Formatacao">
+    <configuration name="Data" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdas_streams_frameworks.generics.datas_horarios.Data" />
       <module name="exercicios-Alura" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambdas_streams_frameworks.generics.datas.*" />
+          <option name="PATTERN" value="lambdas_streams_frameworks.generics.datas_horarios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataHora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdas_streams_frameworks.generics.datas_horarios.DataHora" />
+      <module name="exercicios-Alura" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lambdas_streams_frameworks.generics.datas_horarios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,12 +166,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExerciciosLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdas_streams_frameworks.generics.exercicios_lambda.ExerciciosLambda" />
+    <configuration name="Formatacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdas_streams_frameworks.generics.datas_horarios.Formatacao" />
       <module name="exercicios-Alura" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambdas_streams_frameworks.generics.exercicios_lambda.*" />
+          <option name="PATTERN" value="lambdas_streams_frameworks.generics.datas_horarios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -205,25 +179,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestaCaixa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdas_streams_frameworks.generics.caixa.TestaCaixa" />
+    <configuration name="Horarios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdas_streams_frameworks.generics.datas_horarios.Horarios" />
       <module name="exercicios-Alura" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambdas_streams_frameworks.generics.caixa.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TesteOperacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdas_streams_frameworks.generics.lambda.interface_funcional.TesteOperacao" />
-      <module name="exercicios-Alura" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lambdas_streams_frameworks.generics.lambda.interface_funcional.*" />
+          <option name="PATTERN" value="lambdas_streams_frameworks.generics.datas_horarios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -233,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Formatacao" />
+        <item itemvalue="Application.DataHora" />
+        <item itemvalue="Application.Horarios" />
         <item itemvalue="Application.Datas" />
         <item itemvalue="Application.ExemploImutablidade" />
-        <item itemvalue="Application.ExerciciosLambda" />
-        <item itemvalue="Application.TesteOperacao" />
-        <item itemvalue="Application.TestaCaixa" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +226,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734453592709</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="exercicios feitos desde orientação a objeto até trabalhando com datas">
+      <option name="closed" value="true" />
+      <created>1742382099437</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742382099437</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -281,7 +250,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Orientação a Objeto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Orientação a Objeto" />
+    <MESSAGE value="exercicios feitos desde orientação a objeto até trabalhando com datas" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercicios feitos desde orientação a objeto até trabalhando com datas" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54d372d3-d7f6-4c6c-bf5f-aff130e27529" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lambdas_streams_frameworks/generics/datas_horarios/DataHora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas_streams_frameworks/generics/datas_horarios/Formatacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas_streams_frameworks/generics/datas_horarios/Horarios.java" afterDir="false" />
+    <list default="true" id="54d372d3-d7f6-4c6c-bf5f-aff130e27529" name="Changes" comment="exercicios feitos desde orientação a objeto até trabalhando com datas">
+      <change afterPath="$PROJECT_DIR$/src/lambdas_streams_frameworks/generics/stream/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lambdas_streams_frameworks/generics/datas/Datas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdas_streams_frameworks/generics/datas_horarios/Data.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +23,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Vlad &lt;vlaferjr@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
@@ -66,6 +68,7 @@
     "Application.Formatacao.executor": "Run",
     "Application.Gato.executor": "Run",
     "Application.Horarios.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.ModeloCarro.executor": "Run",
     "Application.Nomes.executor": "Run",
     "Application.NumerosInteiros.executor": "Run",
@@ -126,7 +129,7 @@
       <recent name="exercicio.amaral" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Formatacao">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Data" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lambdas_streams_frameworks.generics.datas_horarios.Data" />
       <module name="exercicios-Alura" />
@@ -146,19 +149,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="lambdas_streams_frameworks.generics.datas_horarios.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExemploImutablidade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdas_streams_frameworks.generics.imutabilidade.ExemploImutablidade" />
-      <module name="exercicios-Alura" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lambdas_streams_frameworks.generics.imutabilidade.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,13 +182,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdas_streams_frameworks.generics.stream.Main" />
+      <module name="exercicios-Alura" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lambdas_streams_frameworks.generics.stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Formatacao" />
         <item itemvalue="Application.DataHora" />
         <item itemvalue="Application.Horarios" />
-        <item itemvalue="Application.Datas" />
-        <item itemvalue="Application.ExemploImutablidade" />
       </list>
     </recent_temporary>
   </component>
@@ -234,7 +236,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742382099437</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="exercicios feitos desde orientação a objeto até trabalhando com datas">
+      <option name="closed" value="true" />
+      <created>1742467212703</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1742467212703</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54d372d3-d7f6-4c6c-bf5f-aff130e27529" name="Changes" comment="exercicios feitos desde orientação a objeto até trabalhando com datas">
-      <change afterPath="$PROJECT_DIR$/src/lambdas_streams_frameworks/generics/stream/Main.java" afterDir="false" />
+    <list default="true" id="54d372d3-d7f6-4c6c-bf5f-aff130e27529" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdas_streams_frameworks/generics/stream/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdas_streams_frameworks/generics/stream/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -244,7 +244,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742467212703</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="exercicios lambda usando stream, filter, map e Collect">
+      <option name="closed" value="true" />
+      <created>1742555023151</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1742555023151</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -261,7 +269,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Orientação a Objeto" />
     <MESSAGE value="exercicios feitos desde orientação a objeto até trabalhando com datas" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercicios feitos desde orientação a objeto até trabalhando com datas" />
+    <MESSAGE value="exercicios lambda usando stream, filter, map e Collect" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercicios lambda usando stream, filter, map e Collect" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -49,5 +49,52 @@ public class Main {
                 //impressão da lista de palavras sem duplicatas
                 .forEach(palavra -> System.out.println(palavra));
 
+// ------------------------------ Extração de números primos
+        System.out.println("\n************* IMPRESSÃO DE LISTA DE NUMEROS PRIMOS *****************");
+        //lista de numeros com sublistas
+        List <List<Integer>> listaNumeros = Arrays.asList(
+                Arrays.asList(-1,1,2,3,4),
+                Arrays.asList(5,6,7,8),
+                Arrays.asList(9,10,11,12)
+        );
+        //achatando as 3 listas transformando em uma única lista
+        List<Integer> listaUnica = listaNumeros.stream()
+                //achata as 3 listas em uma só
+                .flatMap(numero -> numero.stream())
+                //coleta a nova lista achatada
+                .collect(Collectors.toList());
+
+        //pegando a lista e filtrando os primos
+        List<Integer> listaPrimos = listaUnica.stream()
+                //chama método que verifica se é primo
+                .filter (Main::isPrimo)
+                //coleta em outra lista, somente os primos
+                .collect(Collectors.toList());
+        // imprimindo números primos
+        listaPrimos.forEach(numero -> System.out.println(numero));
     }
+
+    // método que verifica se é primo
+    public static boolean isPrimo(int num){
+        boolean resp = true;
+
+        if (num< 0){
+            resp = false;
+        }
+        else if (num > 0){
+            resp = true;
+
+            for (int i = 2; i < num; i++){
+                int result = num % i;
+                if ( result == 0){
+                    resp = false;
+                    break;
+                }
+                else {
+                    resp = true;
+                }
+            }
+        }
+        return resp;
+    };
 }

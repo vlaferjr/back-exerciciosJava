@@ -116,10 +116,22 @@ public class Main {
         //imprime a lista de produtos eletrônicos
         produtosEletronicos.forEach(System.out::println);
 
+// ------------------------------ Extração de Produtos eletrônicos mostrando os 2 itens mais baratos
+        System.out.println("\n************* IMPRESSÃO DE LISTA DE PRODUTOS ELETR ÔNICOS (2 + BARATOS) *****************");
 
+        List<Produto> listaProdutosbaratos = produtos
+                .stream()
+                //ordenando os produtos por ordem de preço, mais barato para mais caro
+                .sorted(Comparator.comparing(Produto::getPreco))
+                //filtrando os produtos da categoria Eletrônicos
+                .filter(produto -> produto.getCategoria().equals("Eletrônicos"))
+                //limitando em mostrar somente os 2 primeiros
+                .limit(2)
+                //coletando numa nova lista
+                .collect(Collectors.toList());
+        //imprindo a lista nova listaProdutosbaratos
+        listaProdutosbaratos.forEach(System.out::println);
     }
-
-
 
 // ------------------------------------------------------------------------------------------------
     // método que verifica se é primo

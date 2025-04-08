@@ -1,8 +1,11 @@
 package lambdas_streams_frameworks.generics.streams_avancados;
 
+import com.google.gson.internal.bind.util.ISO8601Utils;
+
 import java.util.Arrays;
 import java.util.Collection;
 import java.util.List;
+import java.util.Optional;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
@@ -37,5 +40,16 @@ public class ExemplosStreamAvancados {
                                 .collect(Collectors.toList());
         //imprimindo nova lista
         System.out.println("Lista com flatMap: " + listaUnificada);
+
+        System.out.println("------------------------- STREAM REDUCE ----------------------------");
+        //lista de números inteiros
+        List<Integer> numeros =List.of(1,2,3,4,5);
+        //resultado é a soma dos números da lista
+        Optional<Integer> somaNumeros = numeros.stream()
+                //reduzindo stream para somar os inteiros
+                .reduce(Integer::sum);
+        //impressão da lista somada
+        System.out.print("A soma dos números inteiros é: " );
+        somaNumeros.ifPresent(System.out::println);
     }
 }

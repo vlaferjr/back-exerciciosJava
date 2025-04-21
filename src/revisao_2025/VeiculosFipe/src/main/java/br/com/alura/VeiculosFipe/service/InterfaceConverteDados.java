@@ -6,3 +6,4 @@ import java.util.List;
 public interface InterfaceConverteDados {
     <T> List<T> obterDados (String json, Class<T> classe);
 }
+

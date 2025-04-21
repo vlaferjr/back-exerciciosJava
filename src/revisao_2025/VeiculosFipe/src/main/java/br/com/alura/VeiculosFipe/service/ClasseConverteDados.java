@@ -20,8 +20,8 @@ public class ClasseConverteDados implements InterfaceConverteDados{
         try {
             //tentear converter os dados do json em lista classes
             /*Json -> parâmetro passado do Application obtido no consumo da API
-            * TypeReferente ->  deserializar o JSON em uma lista de objetos do tipo T (genérico)*/
-            return mapper.readValue(json, new TypeReference<List<T>>() {});
+            * TypeReferente ->  deserializar o JSON em uma lista de objetos do tipo T*/
+            return mapper.readValue(json, mapper.getTypeFactory().constructCollectionType(List.class, classe));
         }
         //se não for possível e der exceção, tratar exceção
         catch (IOException e){

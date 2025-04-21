@@ -7,4 +7,8 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 public record MarcasVeiculos(@JsonProperty("codigo") int codigo,
                              @JsonProperty("nome") String nome){
 
+        @Override
+        public String toString() {
+                return "código=" + codigo + " | nome='" + nome;
         }
+}
